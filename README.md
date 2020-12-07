@@ -8,6 +8,8 @@ The implementation is heavily built on the following code repo:
 
 egipcy. (2020). List-wise recommendation framework based on deep reinforcement learning. https://github.com/egipcy/LIRD. GitHub.
 
+This decision was made to run the experiment in the available time, and to built on top of giants to maximize scientific contribution.
+
 # Requirements
 
 * Python 3
