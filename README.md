@@ -18,7 +18,7 @@ egipcy. (2020). List-wise recommendation framework based on deep reinforcement l
 
 # Usage
 
-Install required packages
+Install required packages<br>
 run python deep-dpprl-dpp.py
 
 # Acknowledgments
