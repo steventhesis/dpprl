@@ -23,6 +23,10 @@ This decision was made to run the experiment in the available time, and to built
 Install required packages<br>
 run python deep-dpprl-dpp.py
 
+# Configurations
+
+The dataset is split into train, validation, and test sets to make the experiment as valid as possible.
+
 # Acknowledgments
 
 This project is heavily built on the LIRD model, and by using the following papers:
