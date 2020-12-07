@@ -25,7 +25,8 @@ run python deep-dpprl-dpp.py
 
 # Configurations
 
-The dataset is split into train, validation, and test sets to make the experiment as valid as possible.
+The dataset is split into train, validation, and test sets to make the experiment as valid as possible.<br>
+By tuning the nb_episodes parameter the model is tested on diversify performance through the episodes.
 
 # Acknowledgments
 
