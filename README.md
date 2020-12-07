@@ -4,7 +4,7 @@ A DPP implementation on Deep Reinforcement Learning for Movies Recommendation Sy
 
 Zhao, X., Zhang, L., Xia, L., Ding, Z., Yin, D., & Tang, J. (2019). Deep reinforcement learning for list-wise recommendations.
 
-The implementation is heavily built on top of:
+The implementation is heavily built on the following code repo: 
 
 egipcy. (2020). List-wise recommendation framework based on deep reinforcement learning. https://github.com/egipcy/LIRD. GitHub.
 
@@ -23,7 +23,7 @@ run python deep-dpprl-dpp.py
 
 # Acknowledgments
 
-This project is heavily heavily built on the LIRD model, and by using the following papers:
+This project is heavily built on the LIRD model, and by using the following papers:
 
 egipcy. (2020). List-wise recommendation framework based on deep reinforcement learning. https://github.com/egipcy/LIRD. GitHub.
 Zhao, X., Zhang, L., Xia, L., Ding, Z., Yin, D., & Tang, J. (2019). Deep reinforcement learning for list-wise recommendations.
