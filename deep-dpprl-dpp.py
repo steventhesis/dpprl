@@ -15,7 +15,6 @@ from scipy.linalg import qr
 from dppy.finite_dpps import FiniteDPP
 from dppy.utils import example_eval_L_linear
 
-import recmetrics
 from surprise import Reader, SVD, Dataset
 from surprise.model_selection import train_test_split
 
