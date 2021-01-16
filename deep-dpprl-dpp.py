@@ -128,7 +128,7 @@ class DataGenerator():
     DPP = FiniteDPP('likelihood',
                 **{'L_eval_X_data': (example_eval_L_linear, randn(N, r))})
 
-    for _ in range(10):
+    for _ in range(1682):
         DPP.sample_exact('vfx')
 
     nb_sample = random.randint(1, max_samp_by_user)
